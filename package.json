@@ -1,7 +1,7 @@
 {
     "name": "RealityCraft-Launcher",
     "preductname": "RealityCraft Launcher",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Launcher Minecraft officiel du serveur RealityCraft",
     "main": "src/app.js",
     "author": "Luuxis, Cyberium",
@@ -31,6 +31,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/MrCyberium/RealityCraft-Launcher.git"
     }
 }

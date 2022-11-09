@@ -71,5 +71,3 @@ Si vous avez des questions, un problème ou des suggestions n'hésitez pas à re
 
 <br>
 <br>
-
-[<p align="center">]() *Readme réalisé par [@Fefe_du_973](https://github.com/Fefedu973)*  </p>
