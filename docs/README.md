@@ -1,3 +1,5 @@
+<p align="center"><img src="../src/assets/images/logo-github.png" alt="icon-launcher"></p>
+
 <h1 align="center">RealityCraft Launcher</h1>
 
 #### [<p align="center">]() *(Ce fork est utilisé par le serveur RealityCraft.)*
@@ -59,8 +61,6 @@ Si vous téléchargez à partir des Releases, sélectionnez le programme d'insta
 ---
 
 <br>
-
-Si vous aimez ce projet et que vous voulez aider à le développer, vous pouvez nous faire un don sur [Paypal](https://www.paypal.me/luuxiss).
 
 Si vous avez des questions, un problème ou des suggestions n'hésitez pas à rejoindre notre discord :
 
