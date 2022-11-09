@@ -1,38 +1,11 @@
-<p align="center"><img src="../src/assets/images/icon.png" alt="icon-launcher"></p>
+<h1 align="center">RealityCraft Launcher</h1>
 
-<h1 align="center">CraftLaunch</h1>
-
-#### [<p align="center">]() *(Un launcher minecraft performant et puissant basé sur electron)*
-[<p align="center">]()
-![GitHub all releases](https://img.shields.io/github/downloads/luuxis/Selvania-Launcher/total?style=for-the-badge)
-![Discord](https://img.shields.io/discord/819729377650278420?style=for-the-badge)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/luuxis/Selvania-Launcher?style=for-the-badge)
-[<p align="center">]()
-![GitHub forks](https://img.shields.io/github/forks/luuxis/Selvania-Launcher?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/luuxis/Selvania-Launcher?style=for-the-badge)
-
-#### *<p align="center">Do you speak english 🇬🇧/🇺🇸 ? You can find the readme and the documentation translated into English [Here](/README_EN-US.md).</p>*
+#### [<p align="center">]() *(Ce fork est utilisé par le serveur RealityCraft.)*
 
 ---
 ### **<ins><p align="center">Conditions d'utilisation :</p>**
-- Pour utiliser le code vous devez faire un fork du projet
-- Pour utiliser le code votre code doit tout le temps être public
-
----
-
-### **<ins><p align="center">Screenshots :</p>**
-
-<img src="images/3.png" alt="screenshot3"><p align="center"> *Page principale*
-
-&nbsp;
-
-<img src="images/4.png" alt="screenshot4"><p align="center"> *Page de gestion des skins*
-
-&nbsp;
-<img src="images/5.png" alt="screenshot5"><p align="center"> *Page de gestion des comptes*
-
-&nbsp;
-<img src="images/1.png" alt="screenshot8"><p align="center"> *Page de connexion*
+- Ce fork ne peut être utilisé pour vos projets
+- Si ce projet vous intéresse, créez votre propre fork du projet [CraftLaunch](https://github.com/luuxis/Selvania-Launcher)
 
 ---
 
@@ -42,13 +15,8 @@
 
 - 🔴 Option pour mettre le launcher en maintenance.
 
-- 🔒 Authentification Microsoft.
+- 🔒 Authentification Microsoft et Mojang AB.
 
-- 🏴‍☠️ Authentification Crack.
-
-- ⛏️ Supporte toutes versions de Minecraft 1.0 > 1.19.x (Forge, Fabric etc).
-
-- 📦 Supporte les version moddées Forge et Fabric (Pas les MCP)
  
 - 📰 Fil d'actualité intégré nativement au launcher.
 
@@ -60,7 +28,7 @@
 
     - Opérationnel ou hors ligne.
     
-    - Nombres de joueurs connectés.
+    - Nombre de joueurs connectés.
 
 - ☕ Installation de Java automatique.
 
@@ -68,20 +36,10 @@
     
     - Vous n'avez pas besoin d'avoir Java installé pour exécuter le launcher.
 
-Ce n'est pas une liste exhaustive. Installez le launcher pour voir tout ce qu'il peut faire !
-
-Vous aimez le projet ? Laissez une étoile ⭐ sur le repo !
-
----
-
-### **<ins><p align="center">Vous avez besoin d'aide pour faire votre propre launcher ? :</p>**
-
-- Voici le [Wiki](./wiki.md) spécialement rédigé pour vous guider pas à pas dans la création de votre launcher.
-
 ---
 ### **<ins><p align="center">Téléchargement :</p>**
 
-Vous pouvez télécharger le launcher à partir des [Releases GitHub](https://github.com/luuxis/Selvania-Launcher/releases).
+Vous pouvez télécharger le launcher à partir des [Releases GitHub](https://github.com/MrCyberium/RealityCraft-Launcher/releases).
 
 Plateformes supportées :
 
@@ -93,10 +51,10 @@ Si vous téléchargez à partir des Releases, sélectionnez le programme d'insta
 
  Plateforme | Fichier |
 | -------- | ---- |
-| Windows x64 | `Selvania-Launcher-win-x64.exe ` |
-| macOS x64 | `Selvania-Launcher-mac-x64.dmg` |
-| macOS arm64 | `Selvania-Launcher-mac-arm64.dmg` |
-| Linux x64 | `Selvania-Launcher-linux-x86_64.AppImage` |
+| Windows x64 | `RealityCraft-Launcher-win-x64.exe ` |
+| macOS x64 | `RealityCraft-Launcher-mac-x64.dmg` |
+| macOS arm64 | `RealityCraft-Launcher-mac-arm64.dmg` |
+| Linux x64 | `RealityCraft-Launcher-linux-x86_64.AppImage` |
 
 ---
 
@@ -108,7 +66,7 @@ Si vous avez des questions, un problème ou des suggestions n'hésitez pas à re
 
 <br>
 
-[<p align="center"><img src="https://discordapp.com/api/guilds/819729377650278420/embed.png?style=banner2" alt="discord">](https://discord.gg/e9q7Yr2cuQ) 
+[<p align="center"><img src="https://discordapp.com/api/guilds/523910082933817354/embed.png?style=banner2" alt="discord">](https://discord.gg/ny2dk8A) 
 ---
 
 <br>
