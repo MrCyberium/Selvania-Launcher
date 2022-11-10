@@ -1,44 +1,40 @@
 .tabs-settings-btn {
     position: fixed;
-    bottom: 0;
+    bottom: 26px;
     width: 100%;
     height: 70px;
-    border-top-left-radius: 40px;
-    border-top-right-radius: 40px;
-    background: #00000080;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background: #0000003b;
     display: flex;
     justify-content: center;
 }
 
 .tab-btn-css {
-    border-radius: 23px;
+    border-radius: 5px;
     width: 160px;
     height: 37px;
     margin: auto 30px;
-    background: #00bd7a;
-    border: 4px solid #00bd7a;
+    background: #425dae;
+    border: 4px solid #324b94;
     font: normal normal bold 20px/25px Poppins;
     cursor: pointer;
-    box-shadow: 0 0 5px #00bd7a;
+    box-shadow: 0 0 5px #324b94;
     outline: none;
+    color: #ffffff;
 }
 
 .tab-btn-css:hover {
-    background: #006e47;
-    box-shadow: 0 0 5px #006e47;
-    border: 4px solid #006e47;
+    background: #324b94;
+    box-shadow: 0 0 5px #213674;
+    border: 4px solid #213674;
 }
 
 .active-tab-btn {
-    background: #006e47;
-    border: 4px solid #bd5d26;
-    box-shadow: 0 0 5px #bd5d26;
-}
-
-.active-tab-btn:hover {
-    background: #006e47;
-    border: 4px solid #bd5d26;
-    box-shadow: 0 0 5px #bd5d26;
+    background: #252525;
+    border: 4px solid #080808;
+    box-shadow: 0 0 5px #080808;
+    color: #ffffff;
 }
 
 .tabs-settings-content {
@@ -49,7 +45,7 @@
     width: 95%;
     height: 80%;
     padding-bottom: 1.5rem;
-    border-radius: 20px;
+    border-radius: 5px;
     background: transparent;
     opacity: 0;
     pointer-events: none;
@@ -103,15 +99,18 @@
  ******************************************************************************/
 
 .add-account {
-    width: 80%;
-    height: 10%;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    width: 250px;
+    height: 35px;
     border: none;
-    border-radius: 15px;
-    font: normal normal bold 30px/40px Poppins;
+    border-radius: 5px;
+    font: normal normal bold 20px/30px Poppins;
     color: #D1D1D1;
     background-color: #303030;
     box-shadow: 1px 2px 5px #585858;
-    margin: 20px 0;
+    margin: 100px 0;
     margin-bottom: 10px;
 }
 
@@ -122,21 +121,21 @@
 
 .account {
     display: inline-block;
-    background: #00bd7a;
-    box-shadow: 0 0 5px #006e47;
-    border: 4px solid #00bd7a;
+    background: #425dae;
+    box-shadow: 0 0 5px #324b94;
+    border: 2px solid #425dae;
     font: normal normal bold 30px/40px Poppins;
     width: 500px;
     height: 100px;
-    margin: 1% 2%;
-    border-radius: 100px;
+    margin: 7% 2%;
+    border-radius: 10px;
     text-align: start;
 }
 
 .account:hover {
-    background: #006e47;
-    box-shadow: 0 0 5px #006e47;
-    border: 4px solid #006e47;
+    background: #324b94;
+    box-shadow: 0 0 5px #324b94;
+    border: 4px solid #324b94;
 }
 
 .account-image {
@@ -188,15 +187,16 @@
 }
 
 .active-account {
-    background: #006e47;
-    border: 4px solid #bd5d26;
-    box-shadow: 0 0 5px #bd5d26;
+    background: #324b94;
+    border: 4px solid #213674;
+    box-shadow: 0 0 5px #213674;
+    color: #ffffff;
 }
 
 .active-account:hover {
-    background: #006e47;
-    border: 4px solid #bd5d26;
-    box-shadow: 0 0 5px #bd5d26;
+    background: #324b94;
+    border: 4px solid #213674;
+    box-shadow: 0 0 5px #213674;
 }
 
 
@@ -207,8 +207,8 @@
  ******************************************************************************/
 
 .java-settings {
-    background: #292929;
-    border-radius: 20px;
+    background: #324b94;
+    border-radius: 5px;
     width: 90%;
     margin: 0 auto;
     padding: 20px;
@@ -240,7 +240,7 @@
     background: #F1F1F1;
     border: 4px solid #00bd7a;
     transition: background-color .2s, border .2s;
-    border-radius: 18px;
+    border-radius: 5px;
     cursor: pointer;
 }
 
@@ -289,7 +289,7 @@
 .path {
     min-width: 50%;
     font: normal normal normal 13px/20px Poppins;
-    border-radius: 18px;
+    border-radius: 5px;
     padding: 8px 16px;
     margin: 0 40px;
     margin-top: 2%;
@@ -303,34 +303,36 @@
 
 .path-button {
     font: normal normal bold 13px/20px Poppins;
-    border-radius: 18px;
+    border-radius: 5px;
     padding: 8px 30px;
-    background-color: #00bd7a;
+    background-color: #01aa56;
     cursor: pointer;
     margin-left: 20px;
     transition: color .2s, background-color .2s;
     border: none;
     outline: none;
+    color: #ffffff;
 }
 
 .path-button:hover {
-    background-color: #1f1f1f;
+    background-color: #02924a;
 }
 
 .path-button-reset {
     font: normal normal bold 13px/20px Poppins;
-    border-radius: 18px;
+    border-radius: 5px;
     padding: 8px 30px;
-    background-color: #00bd7a;
+    background-color: #01aa56;
     cursor: pointer;
     margin-left: 20px;
     transition: color .2s, background-color .2s;
     border: none;
     outline: none;
+    color: #ffffff;
 }
 
 .path-button-reset:hover {
-    background-color: #1f1f1f;
+    background-color: #02924a;
 }
 
 .path-file {
@@ -341,7 +343,7 @@
 .args-settings {
     min-width: 50%;
     font: normal normal normal 13px/20px Poppins;
-    border-radius: 18px;
+    border-radius: 5px;
     padding: 8px 16px;
     margin: 0 40px;
     margin-top: 2%;
@@ -377,7 +379,7 @@
     background: #1f1f1f;
     border: none;
     outline: none;
-    border-radius: 40px;
+    border-radius: 5px;
     font-size: 20px;
     width: 100px;
     color: #F1F1F1F1;
@@ -420,8 +422,8 @@
 }
 
 .select {
-    border-radius: 40px;
-    background-color: #00bd7a;
+    border-radius: 5px;
+    background-color: #01aa56;
     font: normal normal normal 12px/18px Poppins;
     transition: color .2s, box-shadow .2s;
     border: none;
