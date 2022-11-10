@@ -35,6 +35,14 @@ img {
     display: none;
 }
 
+.launcher-name {
+    position: fixed;
+    top: 3px;
+    left: 5px;
+    font: normal normal normal 15px/20px Poppins;
+    color: #f8f9f9;
+}
+
 .frame {
     background: transparent;
     position: fixed;
