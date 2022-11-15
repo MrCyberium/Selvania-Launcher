@@ -55,14 +55,14 @@ class Home {
                                 <div class="title">${News.title}</div>
                             </div>
                             <div class="date">
-                                <div class="day">${date.day}</div>
-                                <div class="month">${date.month}</div>
+                                <div class="day">${date.day} ${date.month}</div>
+                                <div class="year">${date.year}</div>
                             </div>
                         </div>
                         <div class="news-content">
                             <div class="bbWrapper">
                                 <p>${News.content.replace(/\n/g, '</br>')}</p>
-                                <p class="news-author">Auteur,<span> ${News.author}</span></p>
+                                <p class="news-author">Rédigé par<span> ${News.author}</span></p>
                             </div>
                         </div>`
                     news.appendChild(blockNews);
