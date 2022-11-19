@@ -44,7 +44,9 @@
 
 <p align="center"><img src="images/home.png" alt="icon-launcher"></p> *Accueil du launcher*
 
-<p align="center"><img src="images/settings-java.jpg" alt="icon-launcher"></p> *Accueil du launcher*
+&nbsp;
+
+<p align="center"><img src="images/settings-java.jpg" alt="icon-launcher"></p> *Paramètres JAVA*
 
 ---
 ### **<ins><p align="center">Téléchargement :</p>**
