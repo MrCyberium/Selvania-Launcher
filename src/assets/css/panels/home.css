@@ -1,6 +1,6 @@
 .home-content {
     position: absolute;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0)), url(../../images/background/main.jpg) no-repeat center center scroll;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0)), url(https://www.realitycraft.fr/storage/img/launcherbackground.png) no-repeat center center scroll;
     height: 100%;
     width: 100%;
 }
@@ -250,7 +250,7 @@
 
 .server-img {
     position: absolute;
-    width: 42px;
+    width: 45px;
     height: 45px;
     top: 15px;
     left: 15px;
@@ -392,4 +392,13 @@ ul {
     border-radius:5px;
     border: solid 3px #324b94;
     text-align: center;
+}
+
+.version {
+    position: absolute;
+    font-family: Poppins;
+    color: #E1E1E1;
+    bottom: 0px;
+    right: 10px;
+    font-size: 12px;
 }
