@@ -1,7 +1,7 @@
 {
     "name": "RealityCraft-Launcher",
     "preductname": "RealityCraft Launcher",
-    "version": "1.1.3",
+    "version": "1.1.4",
     "description": "Launcher Minecraft officiel du serveur RealityCraft",
     "main": "src/app.js",
     "author": "Luuxis, Cyberium",
