@@ -42,7 +42,7 @@
 
 ### **<ins><p align="center">Aperçus :</p>**
 
-<p align="center"><img src="/images/home.png" alt="icon-launcher"></p> *Accueil du launcher*
+<p align="center"><img src="images/home.png" alt="icon-launcher"></p> *Accueil du launcher*
 
 ---
 ### **<ins><p align="center">Téléchargement :</p>**
