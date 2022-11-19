@@ -39,6 +39,12 @@
     - Vous n'avez pas besoin d'avoir Java installé pour exécuter le launcher.
 
 ---
+
+### **<ins><p align="center">Aperçus :</p>**
+
+<p align="center"><img src="/images/home.png" alt="icon-launcher"></p> *Accueil du launcher*
+
+---
 ### **<ins><p align="center">Téléchargement :</p>**
 
 Vous pouvez télécharger le launcher à partir des [Releases GitHub](https://github.com/MrCyberium/RealityCraft-Launcher/releases).
