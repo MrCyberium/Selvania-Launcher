@@ -42,10 +42,10 @@
 
 ### **<ins><p align="center">Captures écran :</p>**
 
-<p align="center"><img src="images/home.png" alt="accueil launcher"> *Accueil du launcher*</p>
+<p align="center"><img src="images/home.png" alt="accueil launcher"> __Accueil du launcher__</p>
 
 &nbsp;
-<p align="center"><img src="images/settings-java.jpg" alt="settings JAVA"> *Paramètres JAVA*</p>
+<p align="center"><img src="images/settings-java.jpg" alt="settings JAVA"> __Paramètres JAVA__</p>
 
 ---
 ### **<ins><p align="center">Téléchargement :</p>**
